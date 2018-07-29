@@ -1,2 +1,3 @@
-# python
-Python projects and TDD
+# Python
+
+* Python from Zero to Hero
